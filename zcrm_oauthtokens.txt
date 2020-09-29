@@ -1,1 +1,1 @@
-{"tokens":[{"access_token":"1000.93715338e5fb8c5f8223aed18b34e2fa.0968d574f474c01137d4874e53883e09","refresh_token":"1000.308359bda22721b382dcab270de987cc.4eea46be093a1fd4027ccd251d9a310a","expires_in":1601353274471,"user_identifier":"admin@nuanced.it"}]}
+{"tokens":[{"access_token":"1000.93715338e5fb8XXf8223aed18b34e2fa.0968d574f474c01137d4874e53883eXX","refresh_token":"1000.308359bda22721b382dcab270de987cc.4eea46be093a1fd4027ccd251dXXXX0a","expires_in":1601353274471,"user_identifier":"admin@company.com"}]}
